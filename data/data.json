@@ -8,7 +8,7 @@
       "code": "",
       "model": "",
       "spec": "",
-      "quantity": 1,
+      "quantity": 2,
       "location": "",
       "remark": "继续借用",
       "category": "视觉配件"
@@ -2719,7 +2719,7 @@
       "material_name": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
       "material_id": "8aa1b360",
       "qty": 1,
-      "returned": 0,
+      "returned": 1,
       "date": "10月21日",
       "time": "2026-10-21 16:57:15"
     }
@@ -4314,6 +4314,14 @@
       "name": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
       "change": -1,
       "after": 1,
+      "person": "联调测试员"
+    },
+    {
+      "time": "2026-10-21 16:57:33",
+      "type": "归还入库",
+      "name": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
+      "change": 1,
+      "after": 2,
       "person": "联调测试员"
     }
   ]
