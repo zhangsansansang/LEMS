@@ -1,0 +1,12 @@
+{
+  "passwordHash": "test",
+  "materials": [
+    {
+      "id": "1",
+      "name": "测试物料",
+      "quantity": 5
+    }
+  ],
+  "borrows": [],
+  "logs": []
+}
