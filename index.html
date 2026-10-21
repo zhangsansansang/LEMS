@@ -130,13 +130,16 @@
     <div class="dlg-head"><h3>设置</h3></div>
     <div class="dlg-body">
       <p class="dlg-field"><label>存储模式</label><b id="settingsMode"></b></p>
+      <p class="dlg-field"><label>GitHub Token</label><input id="ghToken" type="password" placeholder="粘贴 fine-grained token 以启用写入"></p>
+      <p class="dlg-hint">公开仓库读取无需 token；填写后即可借出/归还。token 只保存在本机浏览器，不会上传到仓库。</p>
       <hr>
       <p class="dlg-field"><label>旧密码</label><input id="oldPwd" type="password" placeholder="当前还回密码"></p>
       <p class="dlg-field"><label>新密码</label><input id="newPwd" type="password" placeholder="新还回密码"></p>
       <p class="dlg-field"><label>确认新密码</label><input id="newPwd2" type="password" placeholder="再次输入新密码"></p>
-      <p class="dlg-hint">仅修改「还回」所需密码；借出始终无需密码。GitHub 仓库/Token 请在 js/config.js 中配置。</p>
+      <p class="dlg-hint">仅修改「还回」所需密码；借出始终无需密码。</p>
     </div>
     <div class="dlg-foot">
+      <button id="tokenSave" class="btn-primary">保存 Token</button>
       <button id="pwdOk" class="btn-primary">修改密码</button>
       <button id="settingsCancel" class="btn-plain">关闭</button>
     </div>
