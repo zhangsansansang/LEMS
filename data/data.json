@@ -80,7 +80,7 @@
       "code": "",
       "model": "",
       "spec": "",
-      "quantity": 1,
+      "quantity": 0,
       "location": "",
       "remark": "继续借用",
       "category": "工业相机"
@@ -2722,6 +2722,16 @@
       "returned": 0,
       "date": "10月21日",
       "time": "2026-10-21 17:36:05"
+    },
+    {
+      "id": "4489f386d2798b",
+      "person": "李晓源",
+      "material_name": "MV-CH250-90GM(国内标配)V4.0",
+      "material_id": "a6dc77de",
+      "qty": 1,
+      "returned": 0,
+      "date": "10月20日",
+      "time": "2026-10-21 17:37:17"
     }
   ],
   "logs": [
@@ -4323,6 +4333,14 @@
       "change": -1,
       "after": 0,
       "person": "纪振辉"
+    },
+    {
+      "time": "2026-10-21 17:37:17",
+      "type": "借出领用",
+      "name": "MV-CH250-90GM(国内标配)V4.0",
+      "change": -1,
+      "after": 0,
+      "person": "李晓源"
     }
   ]
 }
