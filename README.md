@@ -12,51 +12,30 @@
 - Excel 导入 / 更新同步 / 导出物料 / 导出借出（浏览器内完成）
 - 自然语言操作：`5月17日，李晓源借出CL042-91GM一台`、`新增入库 物料名 数量`、`报废 物料名 数量`
 - 自动分类（产品代号前缀 + 关键词）
-- **权限**：借出免密；归还、报废、新增入库均可操作，其中**归还必须输入还回密码**（默认 `admin123`）
+- **权限**：借出免密；**归还必须输入还回密码**（默认 `admin123`，可在设置里改）
 - 修改还回密码（设置里，需旧密码）
 
-## 快速体验（无需 GitHub）
+## 数据与 Token 的存储方式
 
-`js/config.js` 中 token 留空时，应用自动用浏览器本地存储（localStorage），
-用任意静态服务器打开 `index.html` 即可体验全部功能：
-
-```bash
-cd webapp
-npx serve .        # 或 python -m http.server 8080
-# 浏览器打开 http://localhost:8080
-```
+- 数据存在仓库内 `data/data.json`（单文件原子写入）。
+- 公开仓库**读取无需 token**，所以打开链接即可看到库存。
+- **写入（借出/归还/新增/报废）需要 token**：在网页右上角「⚙️ 设置」里粘贴一次 fine-grained token，
+  它只保存在**你自己的浏览器本地**（localStorage），**不会上传到仓库**。
+  > 之所以不把 token 写进代码：GitHub 的密钥扫描会拦截并自动吊销公开仓库里内嵌的 token。
 
 ## 部署到 GitHub（打开链接即用）
 
-1. **建仓库**：新建 GitHub 仓库（如 `lab-materials`，建议 Public，免费开 Pages）。
+1. **建仓库**：新建 GitHub 仓库（如 `LEMS`，Public，免费开 Pages）。
 2. **生成 token**：GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens，
-   仅授权该仓库，权限只勾选 `Contents: Read and write`。
-3. **填配置**：编辑 `js/config.js`：
+   仅授权该仓库，权限只勾选 `Contents: Read and write`，Repository access 勾选该仓库。
+3. **填配置**：编辑 `js/config.js`，只填 `owner` / `repo` / `branch`，`token` 留空：
    ```js
-   export const CONFIG = {
-     owner: "你的用户名",
-     repo: "lab-materials",
-     branch: "main",
-     token: "github_pat_xxxx",   // 仅授权该仓库
-   };
+   export const CONFIG = { owner: "你的用户名", repo: "LEMS", branch: "main", token: "" };
    ```
-4. **推送**：
-   ```bash
-   cd webapp
-   git init
-   git add .
-   git commit -m "物料管理系统网页版"
-   git branch -M main
-   git remote add origin https://github.com/你的用户名/lab-materials.git
-   git push -u origin main
-   ```
+4. **推送**：把本目录推送到该仓库的 `main` 分支。
 5. **开启 Pages**：仓库 → Settings → Pages → Source 选 `main` 分支根目录 → 得到链接
-   `https://你的用户名.github.io/lab-materials/`，分享给同事即可使用。
-
-## 数据存储
-
-- 仓库内 `data/data.json` 单文件：`{ passwordHash, materials, borrows, logs }`，一次写入原子更新。
-- 读写通过 GitHub Contents API（浏览器直连，支持 CORS），带 `sha` 乐观锁，冲突自动重试。
+   `https://你的用户名.github.io/LEMS/`。
+6. **首次写入**：打开链接后点「⚙️ 设置」→ 粘贴 token → 保存，即可借出/归还（token 只存本机）。
 
 ## 还回密码
 
@@ -74,7 +53,7 @@ GITHUB_OWNER=xxx GITHUB_REPO=yyy GITHUB_TOKEN=ghp_xxx node test/github-e2e.mjs
 
 ## ⚠️ 安全说明
 
-本方案为「纯静态站 + GitHub API」：token 与密码校验均在浏览器端。拿到链接的人理论上能读到内嵌 token
-（但它**仅能读写这一个仓库**，无法访问你的其他仓库/账号）。因此「还回密码」属于**流程门槛 + 审计留痕**，
-不是加密级安全；真正的可追溯性由**操作日志**承担。若需要更高安全等级，应加一层服务端（如 Cloudflare/Vercel
-函数）把 token 放到服务端。
+本方案为「纯静态站 + GitHub API」：token 与密码校验均在浏览器端。token 只存于使用者本机，
+且**仅能读写这一个仓库**（无法访问其他仓库/账号）。因此「还回密码」属于**流程门槛 + 审计留痕**，
+不是加密级安全；真正的可追溯性由**操作日志**承担。若需要更高安全等级，应加一层服务端
+（如 Cloudflare/Vercel 函数）把 token 放到服务端。
