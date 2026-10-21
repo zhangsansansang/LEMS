@@ -1,0 +1,4302 @@
+{
+  "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+  "materials": [
+    {
+      "id": "8aa1b360",
+      "name": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
+      "description": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "4434381c",
+      "name": "光模块MV-AC10G-SFP-850-LC(全球通中性)",
+      "description": "光模块MV-AC10G-SFP-850-LC(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "87e939f2",
+      "name": "MV-GU2104(国内标配)",
+      "description": "MV-GU2104(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "采集卡"
+    },
+    {
+      "id": "747b0cdd",
+      "name": "MV-GS1002F(国内标配)",
+      "description": "MV-GS1002F(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "采集卡"
+    },
+    {
+      "id": "d032c0ad",
+      "name": "MV-CL082-91F2M(国内标配)",
+      "description": "MV-CL082-91F2M(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "a7fb8535",
+      "name": "MV-CH120-20UM(国内标配)V4.0",
+      "description": "MV-CH120-20UM(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "a6dc77de",
+      "name": "MV-CH250-90GM(国内标配)V4.0",
+      "description": "MV-CH250-90GM(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "69151589",
+      "name": "MV-CH050-10UM(国内标配)V4.0",
+      "description": "MV-CH050-10UM(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "1d1383d4",
+      "name": "MV-CH120-10GM(国内标配)V4.0",
+      "description": "MV-CH120-10GM(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "8c118eba",
+      "name": "MV-CS004-10GM(国内标配)",
+      "description": "MV-CS004-10GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "e6813f06",
+      "name": "MV-CS004-10GC(国内标配)",
+      "description": "MV-CS004-10GC(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "f83b3432",
+      "name": "电源适配器KPL-060M-VI(全球通中性)",
+      "description": "电源适配器KPL-060M-VI(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "4864057e",
+      "name": "交流电源线_国标_弯三插_C13_1.5米(全球通中性)",
+      "description": "交流电源线_国标_弯三插_C13_1.5米(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "1bad3fff",
+      "name": "线缆MV-ACP-H12p-open-ST-3m(全球通中性)",
+      "description": "线缆MV-ACP-H12p-open-ST-3m(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "64379e9f",
+      "name": "MV-SC2016EC-08S-WBN(国内标配)",
+      "description": "MV-SC2016EC-08S-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "d9b9778c",
+      "name": "MV-SC2004EM-12S-WBN(国内标配)",
+      "description": "MV-SC2004EM-12S-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "c742d97e",
+      "name": "MV-SC3050M-16M-WBN(国内标配)V3.0",
+      "description": "MV-SC3050M-16M-WBN(国内标配)V3.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "a3d6699b",
+      "name": "MV-SC3016C-12M-WBN(国内标配)V3.0",
+      "description": "MV-SC3016C-12M-WBN(国内标配)V3.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "56db590b",
+      "name": "MV-SC3016C-06M-WBN(国内标配)V3.0",
+      "description": "MV-SC3016C-06M-WBN(国内标配)V3.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "5b1ca445",
+      "name": "MV-SC6050C-00C-NNN(国内标配)",
+      "description": "MV-SC6050C-00C-NNN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "26b9cf9f",
+      "name": "MV-SC3000-C-HP(国内中性)/SC3000传感器配件",
+      "description": "MV-SC3000-C-HP(国内中性)/SC3000传感器配件",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "a509d44f",
+      "name": "MV-SC3000-C-FP(国内中性)/SC3000传感器配件",
+      "description": "MV-SC3000-C-FP(国内中性)/SC3000传感器配件",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "60086088",
+      "name": "MV-SV400(国内标配)",
+      "description": "MV-SV400(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "c037e8b5",
+      "name": "MV-IDH3000/13SR/05RN/U(国内标配)",
+      "description": "MV-IDH3000/13SR/05RN/U(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "d447fe85",
+      "name": "MV-DLS600P(国内标配)",
+      "description": "MV-DLS600P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "3D视觉类"
+    },
+    {
+      "id": "173a7a29",
+      "name": "MV-SL-04-0001(国内标配)",
+      "description": "MV-SL-04-0001(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "8db15909",
+      "name": "MV-LLDS-H-400-40-W(全球通标配)",
+      "description": "MV-LLDS-H-400-40-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "3a45588d",
+      "name": "光源MV-LLDS-237-38-B(国内标配)",
+      "description": "光源MV-LLDS-237-38-B(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "bdc1905b",
+      "name": "光源MV-LLDS-237-38-R(国内标配)",
+      "description": "光源MV-LLDS-237-38-R(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "53e14158",
+      "name": "MV-LLDS-H-250-40-W(全球通标配)",
+      "description": "MV-LLDS-H-250-40-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "cdf6efcd",
+      "name": "光源MV-LRSS-116-R(国内标配)",
+      "description": "光源MV-LRSS-116-R(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "5a003291",
+      "name": "MV-LRSS-H-200-W(全球通标配)",
+      "description": "MV-LRSS-H-200-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "09a583b5",
+      "name": "MV-LBSS-H-300-300-W(全球通标配)",
+      "description": "MV-LBSS-H-300-300-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "0d7406d3",
+      "name": "MV-LBES-H-250-250-W(全球通标配)",
+      "description": "MV-LBES-H-250-250-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "66e62379",
+      "name": "MV-LCDS-H-60-60-W(全球通标配)",
+      "description": "MV-LCDS-H-60-60-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "05e469e3",
+      "name": "光源MV-LCDS-140-140-W(国内标配)",
+      "description": "光源MV-LCDS-140-140-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "074643c8",
+      "name": "MV-LTDS-H-200-W(全球通标配)",
+      "description": "MV-LTDS-H-200-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9efafe7a",
+      "name": "光源MV-LGSS-175-W(国内标配)",
+      "description": "光源MV-LGSS-175-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "e9c2c13e",
+      "name": "MV-CS200-10GC(国内标配)",
+      "description": "MV-CS200-10GC(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "fe5db48c",
+      "name": "MV-CS200-10GM(国内标配)",
+      "description": "MV-CS200-10GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "0862c0da",
+      "name": "MV-CS060-10GC-PRO(国内标配)",
+      "description": "MV-CS060-10GC-PRO(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "26ae5e7c",
+      "name": "MV-CS060-10GM-PRO(国内标配)",
+      "description": "MV-CS060-10GM-PRO(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "d9887c02",
+      "name": "MV-CH100-60GC(国内标配)",
+      "description": "MV-CH100-60GC(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "5d0e1227",
+      "name": "MV-CH100-60GM(国内标配)",
+      "description": "MV-CH100-60GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "07b03b44",
+      "name": "V004-X相机C转接",
+      "description": "V004-X相机C转接",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "f95d560a",
+      "name": "FA镜头MVL-KF5024M-25MP(全球通标配)",
+      "description": "FA镜头MVL-KF5024M-25MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "ffb5aa44",
+      "name": "FA镜头MVL-HF0824M-10MP(全球通标配)",
+      "description": "FA镜头MVL-HF0824M-10MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "014a0d53",
+      "name": "MV-IPC-F4B9W-16G-256G2T-0210/NEU",
+      "description": "MV-IPC-F4B9W-16G-256G2T-0210/NEU",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工控设备"
+    },
+    {
+      "id": "fab0defd",
+      "name": "线光源专用延长线,19M-8A转19M-8A,灰色,长度5米",
+      "description": "线光源专用延长线,19M-8A转19M-8A,灰色,长度5米",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "472e4084",
+      "name": "MV-LE201-10W5-2D(国内标配)",
+      "description": "MV-LE201-10W5-2D(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "acb7252c",
+      "name": "MV-LE200-200W24-4TD(国内标配)",
+      "description": "MV-LE200-200W24-4TD(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "f04e2854",
+      "name": "光源控制器MV-LEVD-200-4-PY(国内标配)",
+      "description": "光源控制器MV-LEVD-200-4-PY(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "光源控制器"
+    },
+    {
+      "id": "2410f8e9",
+      "name": "MV-LE201-500W48-2TD(国内标配)",
+      "description": "MV-LE201-500W48-2TD(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "63c76af5",
+      "name": "MV-LDSS-H-8-3-W(全球通标配)",
+      "description": "MV-LDSS-H-8-3-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "7314f48b",
+      "name": "MV-CH250-90GC(国内标配)V4.0",
+      "description": "MV-CH250-90GC(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "b07a7c9b",
+      "name": "MV-CH120-10GC(国内标配)V4.0",
+      "description": "MV-CH120-10GC(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "1c79a4d9",
+      "name": "MVL-MY-2-110C-MP",
+      "description": "MVL-MY-2-110C-MP",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "2e918eda",
+      "name": "MVL-MY-05-110C-MP",
+      "description": "MVL-MY-05-110C-MP",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "1297e684",
+      "name": "光源延长线MV-LW-001-1-S(全球通中性)",
+      "description": "光源延长线MV-LW-001-1-S(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 4,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9bc477ae",
+      "name": "MV-CH089-10GM(国内标配)V4.0",
+      "description": "MV-CH089-10GM(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "ef3b926b",
+      "name": "MV-CS020-11GM(国内标配)",
+      "description": "MV-CS020-11GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "3e3e9aa5",
+      "name": "光源(MV-LRDS-53-90-UV365)",
+      "description": "光源(MV-LRDS-53-90-UV365)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "600e6268",
+      "name": "光源MV-LLDS-282-28-IR850(标配)",
+      "description": "光源MV-LLDS-282-28-IR850(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "d711b2a9",
+      "name": "光源MV-LBES-180-180-B|(国内标配)",
+      "description": "光源MV-LBES-180-180-B|(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "47f991d5",
+      "name": "MV-LCDS-H-60-60-R(全球通标配)",
+      "description": "MV-LCDS-H-60-60-R(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "e76e531c",
+      "name": "MV-LCDS-H-60-60-B(全球通标配)",
+      "description": "MV-LCDS-H-60-60-B(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "15edf468",
+      "name": "穹顶光源MV-LGSS-175-R(国内标配)",
+      "description": "穹顶光源MV-LGSS-175-R(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "05a2807d",
+      "name": "光源(MV-LRES-180R156-RGB(含线))",
+      "description": "光源(MV-LRES-180R156-RGB(含线))",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "1da5f9cc",
+      "name": "MV-SC6016M-00C-NNN(国内标配)",
+      "description": "MV-SC6016M-00C-NNN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "7726887d",
+      "name": "MV-LBPS-250-200-W光源",
+      "description": "MV-LBPS-250-200-W光源",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "46902a39",
+      "name": "MV-LRDS-H-160-30-W(全球通标配)",
+      "description": "MV-LRDS-H-160-30-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "e3bba0a4",
+      "name": "MV-CH089-10GC(国内标配)V4.0",
+      "description": "MV-CH089-10GC(国内标配)V4.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "87a6bfad",
+      "name": "MV-LRDS-H-160-90-W(全球通标配)",
+      "description": "MV-LRDS-H-160-90-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "8d47ea63",
+      "name": "MV-CS020-11GM(国内中性)",
+      "description": "MV-CS020-11GM(国内中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "7137b916",
+      "name": "MV-IDH7000B/10NR/07RN/US(国内标配)/套包",
+      "description": "MV-IDH7000B/10NR/07RN/US(国内标配)/套包",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "f23e5ead",
+      "name": "iMVS-VM-8206 VM开发框架软件全功能(不含深度学习)(中性",
+      "description": "iMVS-VM-8206 VM开发框架软件全功能(不含深度学习)(中性",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "d394dba5",
+      "name": "MV-CL042-91GM(国内标配)",
+      "description": "MV-CL042-91GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "30cdcd26",
+      "name": "MVL-MY-1-110C-MP",
+      "description": "MVL-MY-1-110C-MP",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "529e9797",
+      "name": "FA镜头MVL-MF1228M-8MP(全球通标配)",
+      "description": "FA镜头MVL-MF1228M-8MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "d27f5fd0",
+      "name": "FA镜头MVL-HF1624M-10MP(全球通标配)",
+      "description": "FA镜头MVL-HF1624M-10MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "97207ba5",
+      "name": "FA镜头MVL-HF1224M-10MP(全球通标配)",
+      "description": "FA镜头MVL-HF1224M-10MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "f78f02fa",
+      "name": "FA镜头MVL-MF1628M-8MP(全球通标配)",
+      "description": "FA镜头MVL-MF1628M-8MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "caa23c9d",
+      "name": "MVL-KF3528M-12MP",
+      "description": "MVL-KF3528M-12MP",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "报损待过账",
+      "category": "工业镜头"
+    },
+    {
+      "id": "07f93539",
+      "name": "#电源适配器,BSW0127-1210002W,HR10A-7P-6R",
+      "description": "#电源适配器,BSW0127-1210002W,HR10A-7P-6R",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "8c0ea3b1",
+      "name": "网线,RJ45M转RJ45M,Cat6,UTP 4P*24AWG,3m",
+      "description": "网线,RJ45M转RJ45M,Cat6,UTP 4P*24AWG,3m",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 4,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "ef825ccd",
+      "name": "MR-Q3-600CE-D1(MB)",
+      "description": "MR-Q3-600CE-D1(MB)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "720153d0",
+      "name": "MR-RA-CH-48/30B-A2(S)",
+      "description": "MR-RA-CH-48/30B-A2(S)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "b267de61",
+      "name": "MR-RA-CH-48/30B-C7(N)",
+      "description": "MR-RA-CH-48/30B-C7(N)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "fb68622b",
+      "name": "Lenovo搬运服务器HikOS-S1",
+      "description": "Lenovo搬运服务器HikOS-S1",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "670f52e3",
+      "name": "iMVS-VM-8207 VM开发框架软件全功能(含深度学习)(标配)",
+      "description": "iMVS-VM-8207 VM开发框架软件全功能(含深度学习)(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "34a1cfaf",
+      "name": "MV-LE100-200W24-2BD(国内标配)",
+      "description": "MV-LE100-200W24-2BD(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "256ba32d",
+      "name": "MV-RVM-7100全功能/标配",
+      "description": "MV-RVM-7100全功能/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "dee3e584",
+      "name": "iMVS-VM-7200/VM软件开发版全功能(含深度学习)/标配",
+      "description": "iMVS-VM-7200/VM软件开发版全功能(含深度学习)/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "34f9c582",
+      "name": "iMVS-VM-7200-PRO/VM软件开发版全功能(含深度学习/标",
+      "description": "iMVS-VM-7200-PRO/VM软件开发版全功能(含深度学习/标",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "31e09f02",
+      "name": "镜头转接环M72-F T36.4",
+      "description": "镜头转接环M72-F T36.4",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "3bfbbfc3",
+      "name": "MV-ID2016M-06S-WBN(国内标配)",
+      "description": "MV-ID2016M-06S-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "ba32c3a5",
+      "name": "MV-ID2013EM-05-RBN(国内标配)",
+      "description": "MV-ID2013EM-05-RBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "925045d9",
+      "name": "MV-ID3030XM-12M-RBN(国内标配)",
+      "description": "MV-ID3030XM-12M-RBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "05bcf381",
+      "name": "远心镜头(MVL-HY-06-65C)",
+      "description": "远心镜头(MVL-HY-06-65C)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "9d67d143",
+      "name": "镜头(MVL-MY-1-200-MP)",
+      "description": "镜头(MVL-MY-1-200-MP)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "d2a43e40",
+      "name": "FA镜头MVL-KF1224M-25MP(全球通标配)",
+      "description": "FA镜头MVL-KF1224M-25MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "0345c82f",
+      "name": "FA镜头MVL-KF2524M-25MP(全球通标配)",
+      "description": "FA镜头MVL-KF2524M-25MP(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "df538678",
+      "name": "LF2528M-F",
+      "description": "LF2528M-F",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "de64393a",
+      "name": "MVL-LF5040M-F",
+      "description": "MVL-LF5040M-F",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "a23dfa0c",
+      "name": "MV-GE2204P(国内标配)",
+      "description": "MV-GE2204P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "采集卡"
+    },
+    {
+      "id": "cef12f48",
+      "name": "线缆MV-AC10G-RJ45s-RJ45-ST-3m(全球通中性)",
+      "description": "线缆MV-AC10G-RJ45s-RJ45-ST-3m(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "f8972aeb",
+      "name": "线缆MV-ACP-DB9F-open-ST(EMC)-3m(全球通中性",
+      "description": "线缆MV-ACP-DB9F-open-ST(EMC)-3m(全球通中性",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "2aacc120",
+      "name": "镜头转接环 M58x0.75-F T35",
+      "description": "镜头转接环 M58x0.75-F T35",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "67beebc8",
+      "name": "HAR15-1440-S5L8-A1(国内标配)",
+      "description": "HAR15-1440-S5L8-A1(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "b1b3ef4e",
+      "name": "MV-CH650-90TM-M58S-NF(国内标配)",
+      "description": "MV-CH650-90TM-M58S-NF(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "e7c3c7d4",
+      "name": "MV-MZS200H-100(国内标配)",
+      "description": "MV-MZS200H-100(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "2f02de3e",
+      "name": "键鼠套装,X126,USB,1400mm,-5~40℃",
+      "description": "键鼠套装,X126,USB,1400mm,-5~40℃",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 3,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "9bf27c59",
+      "name": "MV-LE200-120W24-4TD(国内标配)",
+      "description": "MV-LE200-120W24-4TD(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9029ded1",
+      "name": "MVL-AF4028M-M42",
+      "description": "MVL-AF4028M-M42",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "ed3c9ed8",
+      "name": "MV-DLS1400P(国内标配)",
+      "description": "MV-DLS1400P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "3D视觉类"
+    },
+    {
+      "id": "d6b87a2c",
+      "name": "MVL-KY-05-240",
+      "description": "MVL-KY-05-240",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "3a3bd237",
+      "name": "MVL-AF3528M-M42",
+      "description": "MVL-AF3528M-M42",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "d6f6f5d4",
+      "name": "FA镜头MVL-AF2524M-M42(全球通标配)",
+      "description": "FA镜头MVL-AF2524M-M42(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "0a2dbfe1",
+      "name": "FA镜头MVL-AF5028M-M42A(全球通标配)",
+      "description": "FA镜头MVL-AF5028M-M42A(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "2bdb7dcb",
+      "name": "转接环C-C T5",
+      "description": "转接环C-C T5",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "df442199",
+      "name": "MV-CL084-91GM(国内标配)",
+      "description": "MV-CL084-91GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "2d033cbf",
+      "name": "MV-CL022-91GM(国内标配)",
+      "description": "MV-CL022-91GM(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "087ae602",
+      "name": "光源MV-LTPS-300-W(标配)",
+      "description": "光源MV-LTPS-300-W(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "f5255f54",
+      "name": "MV-LRSS-H-300-W(全球通标配)",
+      "description": "MV-LRSS-H-300-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "38764c5f",
+      "name": "MV-LRDS-H-200-00-W(全球通标配)",
+      "description": "MV-LRDS-H-200-00-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "2c431278",
+      "name": "MV-LRDS-H-120-45-W(全球通标配)",
+      "description": "MV-LRDS-H-120-45-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "18708631",
+      "name": "光源MV-LLAS-140-W(标配)",
+      "description": "光源MV-LLAS-140-W(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "aae256f8",
+      "name": "光源MV-LCDM-120-120-W(标配)",
+      "description": "光源MV-LCDM-120-120-W(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "025fbd0f",
+      "name": "环形光源MV-LRDS-90-75-UV365(国内中性)",
+      "description": "环形光源MV-LRDS-90-75-UV365(国内中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "ddc7c8c1",
+      "name": "MV-SC1008M-05S-WBN-SR(国内标配)",
+      "description": "MV-SC1008M-05S-WBN-SR(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "3ab2f504",
+      "name": "光源(MV-LLDH-237-38-W(加偏振膜))",
+      "description": "光源(MV-LLDH-237-38-W(加偏振膜))",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "a2bed1e2",
+      "name": "MV-LGSS-260-W球积分光源",
+      "description": "MV-LGSS-260-W球积分光源",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "c5bd13bc",
+      "name": "光源(MV-LLDM-300-35-W)",
+      "description": "光源(MV-LLDM-300-35-W)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "583b28e9",
+      "name": "远心镜头(MVL-KT-2-110)",
+      "description": "远心镜头(MVL-KT-2-110)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "0420ee3f",
+      "name": "1.5倍镜头(MVL-KT-15-110)",
+      "description": "1.5倍镜头(MVL-KT-15-110)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "b441ccdf",
+      "name": "远心镜头(MVL-KT-1-110)",
+      "description": "远心镜头(MVL-KT-1-110)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "e33f33c0",
+      "name": "光源(MV-LLDS-192-28-UV365)",
+      "description": "光源(MV-LLDS-192-28-UV365)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "d6653f85",
+      "name": "光源MV-LLAS-260-W(标配)",
+      "description": "光源MV-LLAS-260-W(标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "a76324bc",
+      "name": "光源(MV-LCDH-120-120-W)",
+      "description": "光源(MV-LCDH-120-120-W)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "c7b70f57",
+      "name": "光源MV-LTFS-200-W(国内标配)",
+      "description": "光源MV-LTFS-200-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "893f081c",
+      "name": "iMVS-VM-7210/VM开发版AI全功能Plus/标配",
+      "description": "iMVS-VM-7210/VM开发版AI全功能Plus/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "25af8626",
+      "name": "线缆MV-ACG-RJ45s-RJ45-ST-3m(全球通中性)",
+      "description": "线缆MV-ACG-RJ45s-RJ45-ST-3m(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "d212fede",
+      "name": "MV-LODIS-H-300-100-W(全球通标配)",
+      "description": "MV-LODIS-H-300-100-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "2acaf9fd",
+      "name": "V031-镜头转接环M72-F T34.5",
+      "description": "V031-镜头转接环M72-F T34.5",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "3dd012d5",
+      "name": "线缆MV-ACP-H12P-open-ST-3M(屏蔽)(全球通中性)",
+      "description": "线缆MV-ACP-H12P-open-ST-3M(屏蔽)(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "99c71f60",
+      "name": "MV-LE202-300W24-1T(国内标配)",
+      "description": "MV-LE202-300W24-1T(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "ed40e172",
+      "name": "MV-MVS-2201-STD/线阵2.5D全功能30天/中性",
+      "description": "MV-MVS-2201-STD/线阵2.5D全功能30天/中性",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "5786dce0",
+      "name": "FA镜头MVL-LF6040M-013-M72(全球通标配)",
+      "description": "FA镜头MVL-LF6040M-013-M72(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "9bca5417",
+      "name": "MV-DLS300P(国内标配)",
+      "description": "MV-DLS300P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "3D视觉类"
+    },
+    {
+      "id": "f0aacbfb",
+      "name": "MV-DP2060-01D(国内标配)",
+      "description": "MV-DP2060-01D(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "5b2024f2",
+      "name": "MV-ID3050XM-16L-RBN(国内标配)",
+      "description": "MV-ID3050XM-16L-RBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "300b18a4",
+      "name": "iMVS-VM3D-7300/标配",
+      "description": "iMVS-VM3D-7300/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 5,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "2bd0cc48",
+      "name": "内存条,M4UE-BGS2KC0M-A,DDR4,32GB,UDIMM",
+      "description": "内存条,M4UE-BGS2KC0M-A,DDR4,32GB,UDIMM",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "fe045323",
+      "name": "V-立体006-标定块-对称-2凸台_底座65x50x6V-立体006",
+      "description": "V-立体006-标定块-对称-2凸台_底座65x50x6V-立体006",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "e5ec9d30",
+      "name": "MV-LRDS-H-180-60-W2(全球通标配)",
+      "description": "MV-LRDS-H-180-60-W2(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "ba877503",
+      "name": "MV-LRDS-H-95-90-W2(全球通标配)",
+      "description": "MV-LRDS-H-95-90-W2(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "05034b7a",
+      "name": "OLP工业机器人离线编程软件",
+      "description": "OLP工业机器人离线编程软件",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "0a758211",
+      "name": "光源控制器MV-LELS-300-1K-PY(国内标配)",
+      "description": "光源控制器MV-LELS-300-1K-PY(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "光源控制器"
+    },
+    {
+      "id": "46e905c5",
+      "name": "MV-CL042-91CC(国内标配)",
+      "description": "MV-CL042-91CC(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "677a740d",
+      "name": "MV-CS050-10GM-PRO(国内标配)",
+      "description": "MV-CS050-10GM-PRO(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "67909f92",
+      "name": "MV-LDSS-H-8-3-G(全球通标配)",
+      "description": "MV-LDSS-H-8-3-G(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "8f7691f5",
+      "name": "MV-LDSS-H-8-3-B(全球通标配)",
+      "description": "MV-LDSS-H-8-3-B(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "783575bf",
+      "name": "MV-LDSS-H-8-3-R(全球通标配)",
+      "description": "MV-LDSS-H-8-3-R(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "a2cfc843",
+      "name": "环形光源MV-LRDS-120-30-W(国内标配)",
+      "description": "环形光源MV-LRDS-120-30-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "d9455384",
+      "name": "适配器,TS-A144-2406001,桌面型,24V6A,144W,",
+      "description": "适配器,TS-A144-2406001,桌面型,24V6A,144W,",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "2eec3110",
+      "name": "光源MV-LBES-180-180-W (国内标配)",
+      "description": "光源MV-LBES-180-180-W (国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "d1cffb07",
+      "name": "环形光源MV-LRDS-74-60-W(国内标配)",
+      "description": "环形光源MV-LRDS-74-60-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "12281db0",
+      "name": "MV-CL162-91F2M(国内标配)",
+      "description": "MV-CL162-91F2M(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线阵相机"
+    },
+    {
+      "id": "7121722d",
+      "name": "光源(MV-LBES-116-116-W)",
+      "description": "光源(MV-LBES-116-116-W)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "55ff265a",
+      "name": "光源MV-LBSS-200-200-W(国内标配)",
+      "description": "光源MV-LBSS-200-200-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9468e370",
+      "name": "MV-SC6250M-00C-NNN(国内中性)",
+      "description": "MV-SC6250M-00C-NNN(国内中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "c2e02d05",
+      "name": "光源(MV-LRDS-52-60-B)",
+      "description": "光源(MV-LRDS-52-60-B)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "e246b002",
+      "name": "环形光源MV-LRDS-73-90-W(国内标配)",
+      "description": "环形光源MV-LRDS-73-90-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "ca96378f",
+      "name": "光源(MV-LRDS-90-60-W)",
+      "description": "光源(MV-LRDS-90-60-W)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "890aadbf",
+      "name": "光源(MV-LLDS-282-38-RGB2(定制))",
+      "description": "光源(MV-LLDS-282-38-RGB2(定制))",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9e28414a",
+      "name": "光源(MV-LBPS-130-50-B)",
+      "description": "光源(MV-LBPS-130-50-B)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "9a282e96",
+      "name": "光源(MV-LBSS-150-150-IR940)",
+      "description": "光源(MV-LBSS-150-150-IR940)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "2a0c0b25",
+      "name": "MV-LRDS-H-120-60-W2(全球通标配)",
+      "description": "MV-LRDS-H-120-60-W2(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "4967aa4f",
+      "name": "光源(MV-LRDS-42-65-R)",
+      "description": "光源(MV-LRDS-42-65-R)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "0a7fe8f7",
+      "name": "MV-LTDS-H-600-W(全球通标配)",
+      "description": "MV-LTDS-H-600-W(全球通标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "8d5c5582",
+      "name": "LF9040M-M72",
+      "description": "LF9040M-M72",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "fb01d67e",
+      "name": "MV-CS050-10GC-PRO(国内标配)",
+      "description": "MV-CS050-10GC-PRO(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业相机"
+    },
+    {
+      "id": "8487324b",
+      "name": "MV-IDH9000/13HHD/16RP/L(国内标配)",
+      "description": "MV-IDH9000/13HHD/16RP/L(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "3e6b3ac5",
+      "name": "MV-SC6050M-12M-XBN(国内标配)",
+      "description": "MV-SC6050M-12M-XBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "81449b4d",
+      "name": "MV-DP4020-01P(国内标配)",
+      "description": "MV-DP4020-01P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "6a4b815a",
+      "name": "调试线-USB转485,IOT5072转PHS3+TB3B3P,2.3",
+      "description": "调试线-USB转485,IOT5072转PHS3+TB3B3P,2.3",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 2,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "5d7d29d1",
+      "name": "MV-DP4060-01P(国内标配)",
+      "description": "MV-DP4060-01P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "7124f786",
+      "name": "iMVS-VM-9227VM开发框架软件全功能(含DL)/标配",
+      "description": "iMVS-VM-9227VM开发框架软件全功能(含DL)/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "50eb78f0",
+      "name": "MV-LW-CP-M-T0027A(全球通中性)",
+      "description": "MV-LW-CP-M-T0027A(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "1aa96140",
+      "name": "线缆MV-IDA-P-M12A17pF-Open-ST-0.5m(全球",
+      "description": "线缆MV-IDA-P-M12A17pF-Open-ST-0.5m(全球",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "031cd6a9",
+      "name": "线缆MV-IDA-PE-Open9p-Open-ST-7m(全球通中性",
+      "description": "线缆MV-IDA-PE-Open9p-Open-ST-7m(全球通中性",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "c00c01be",
+      "name": "MV-LB-270-140-4030WL-A(国内标配)",
+      "description": "MV-LB-270-140-4030WL-A(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉光源"
+    },
+    {
+      "id": "87b635ae",
+      "name": "MV-IDA-C-Y-61-45-M(国内中性)",
+      "description": "MV-IDA-C-Y-61-45-M(国内中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "e7bd46c0",
+      "name": "MV-DP4090-01P(国内标配)",
+      "description": "MV-DP4090-01P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "16dd90bd",
+      "name": "MV-DP2060-01P(国内标配)V2.0",
+      "description": "MV-DP2060-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "8dbf2996",
+      "name": "MV-IPC-F4C7Q-32G-1024G1T-0206-X(国内标",
+      "description": "MV-IPC-F4C7Q-32G-1024G1T-0206-X(国内标",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工控设备"
+    },
+    {
+      "id": "302674d0",
+      "name": "MV-IPC-F4C9Q-64G-512G12T-0206 -X1/N",
+      "description": "MV-IPC-F4C9Q-64G-512G12T-0206 -X1/N",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工控设备"
+    },
+    {
+      "id": "3ccce0ab",
+      "name": "MV-ID5200PM-00C-NNN(国内标配)V2.0",
+      "description": "MV-ID5200PM-00C-NNN(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "92931368",
+      "name": "MV-GE1104P(国内标配)",
+      "description": "MV-GE1104P(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "采集卡"
+    },
+    {
+      "id": "173f5fa8",
+      "name": "MV-SC5050XM-12M-WBN(国内标配)",
+      "description": "MV-SC5050XM-12M-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "78bb2a81",
+      "name": "MV-IDA-C-Y-62-62-M1",
+      "description": "MV-IDA-C-Y-62-62-M1",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能读码器"
+    },
+    {
+      "id": "aa2e9bed",
+      "name": "MV-SC3050XC-12M-WBN(国内标配)",
+      "description": "MV-SC3050XC-12M-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "b2058674",
+      "name": "MV-DP3120-01P(国内标配)V2.0",
+      "description": "MV-DP3120-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "815c443a",
+      "name": "MV-DP3062-01P(国内标配)V2.0",
+      "description": "MV-DP3062-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "9aa783ef",
+      "name": "MV-DP3060-01P(国内标配)V2.0",
+      "description": "MV-DP3060-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "5adb492c",
+      "name": "MV-DP3020-01P(国内标配)V2.0",
+      "description": "MV-DP3020-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 0,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "c519c677",
+      "name": "MV-SC3050XM-12M-WBN(国内标配)",
+      "description": "MV-SC3050XM-12M-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "ffc544d7",
+      "name": "iMVS-VM3D-9229/VM及开发框架软件全功能(含DL)/标配",
+      "description": "iMVS-VM3D-9229/VM及开发框架软件全功能(含DL)/标配",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "757e57c5",
+      "name": "MV-DP2240-01P(国内标配)V2.0",
+      "description": "MV-DP2240-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "1ac7c05b",
+      "name": "MV-DP2120-01P(国内标配)V2.0",
+      "description": "MV-DP2120-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "5b72b213",
+      "name": "MV-DP2140-01P(国内标配)V2.0",
+      "description": "MV-DP2140-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "780d304b",
+      "name": "MV-DP2050-01P(国内标配)V2.0",
+      "description": "MV-DP2050-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "f55cd848",
+      "name": "MV-DP2080-01P(国内标配)V2.0",
+      "description": "MV-DP2080-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "60bd4c98",
+      "name": "MV-DP2061-01P(国内标配)V2.0",
+      "description": "MV-DP2061-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "0403366e",
+      "name": "MV-DP3300-01P(国内标配)V2.0",
+      "description": "MV-DP3300-01P(国内标配)V2.0",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "94a7dd92",
+      "name": "MV-SC3013XM-12M-WBN(国内标配)",
+      "description": "MV-SC3013XM-12M-WBN(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "b98433ca",
+      "name": "交流电源线_国标_弯三插_C13_1.2米(全球通中性)",
+      "description": "交流电源线_国标_弯三插_C13_1.2米(全球通中性)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "57bc8082",
+      "name": "接线端子,插座,2位,8.2mm间距,一体式,两进两出,锁螺丝,配线,",
+      "description": "接线端子,插座,2位,8.2mm间距,一体式,两进两出,锁螺丝,配线,",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "其他物料"
+    },
+    {
+      "id": "45e0cd95",
+      "name": "MV-SC3050XC-08M-WBN-S(国内标配)",
+      "description": "MV-SC3050XC-08M-WBN-S(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "智能相机"
+    },
+    {
+      "id": "b7b18a0f",
+      "name": "MV-DP3120-01D(国内标配)",
+      "description": "MV-DP3120-01D(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "线激光轮廓仪"
+    },
+    {
+      "id": "2b67dd82",
+      "name": "MV-MVS-2209-STD/线阵2.5D视觉检测系统加密狗全功能永",
+      "description": "MV-MVS-2209-STD/线阵2.5D视觉检测系统加密狗全功能永",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "99288bf3",
+      "name": "MV-VCP2000-30(国内标配)",
+      "description": "MV-VCP2000-30(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉配件"
+    },
+    {
+      "id": "b13404c0",
+      "name": "MV-MVS-2319-STD/面阵穹顶视觉检测系统加密狗全功能永久标",
+      "description": "MV-MVS-2319-STD/面阵穹顶视觉检测系统加密狗全功能永久标",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "视觉软件"
+    },
+    {
+      "id": "5bbc25b7",
+      "name": "MVL-LF8040M-F",
+      "description": "MVL-LF8040M-F",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "继续借用",
+      "category": "工业镜头"
+    },
+    {
+      "id": "a49042e8",
+      "name": "MV-DAPS-25UM-C4D30-W(国内标配)",
+      "description": "MV-DAPS-25UM-C4D30-W(国内标配)",
+      "code": "",
+      "model": "",
+      "spec": "",
+      "quantity": 1,
+      "location": "",
+      "remark": "未到货",
+      "category": "视觉光源"
+    }
+  ],
+  "borrows": [
+    {
+      "id": "de347b5e",
+      "person": "李晓源",
+      "material_name": "MV-DP3020-01P(国内标配)V2.0",
+      "material_id": "5adb492c",
+      "qty": 1,
+      "returned": 0,
+      "date": "5月14日",
+      "time": "2026-05-17 22:59:29"
+    }
+  ],
+  "logs": [
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-AC10G-2LC-2LC-ST-3m(全球通中性)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光模块MV-AC10G-SFP-850-LC(全球通中性)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-GU2104(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-GS1002F(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL082-91F2M(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH120-20UM(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH250-90GM(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH050-10UM(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH120-10GM(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS004-10GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS004-10GC(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "电源适配器KPL-060M-VI(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "交流电源线_国标_弯三插_C13_1.5米(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-ACP-H12p-open-ST-3m(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC2016EC-08S-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC2004EM-12S-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3050M-16M-WBN(国内标配)V3.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3016C-12M-WBN(国内标配)V3.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3016C-06M-WBN(国内标配)V3.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC6050C-00C-NNN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3000-C-HP(国内中性)/SC3000传感器配件",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3000-C-FP(国内中性)/SC3000传感器配件",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SV400(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IDH3000/13SR/05RN/U(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DLS600P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SL-04-0001(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LLDS-H-400-40-W(全球通标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LLDS-237-38-B(国内标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LLDS-237-38-R(国内标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LLDS-H-250-40-W(全球通标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LRSS-116-R(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRSS-H-200-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LBSS-H-300-300-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LBES-H-250-250-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LCDS-H-60-60-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LCDS-140-140-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LTDS-H-200-W(全球通标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LGSS-175-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS200-10GC(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS200-10GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS060-10GC-PRO(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS060-10GM-PRO(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH100-60GC(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH100-60GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "V004-X相机C转接",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-KF5024M-25MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-HF0824M-10MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IPC-F4B9W-16G-256G2T-0210/NEU",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线光源专用延长线,19M-8A转19M-8A,灰色,长度5米",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE201-10W5-2D(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE200-200W24-4TD(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源控制器MV-LEVD-200-4-PY(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE201-500W48-2TD(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LDSS-H-8-3-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH250-90GC(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH120-10GC(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-MY-2-110C-MP",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-MY-05-110C-MP",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源延长线MV-LW-001-1-S(全球通中性)",
+      "change": 4,
+      "after": 4
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH089-10GM(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS020-11GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LRDS-53-90-UV365)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LLDS-282-28-IR850(标配)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LBES-180-180-B|(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LCDS-H-60-60-R(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LCDS-H-60-60-B(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "穹顶光源MV-LGSS-175-R(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LRES-180R156-RGB(含线))",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC6016M-00C-NNN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LBPS-250-200-W光源",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-160-30-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH089-10GC(国内标配)V4.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-160-90-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS020-11GM(国内中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IDH7000B/10NR/07RN/US(国内标配)/套包",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-8206 VM开发框架软件全功能(不含深度学习)(中性",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL042-91GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-MY-1-110C-MP",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-MF1228M-8MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-HF1624M-10MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-HF1224M-10MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-MF1628M-8MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-KF3528M-12MP",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "#电源适配器,BSW0127-1210002W,HR10A-7P-6R",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "网线,RJ45M转RJ45M,Cat6,UTP 4P*24AWG,3m",
+      "change": 4,
+      "after": 4
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MR-Q3-600CE-D1(MB)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MR-RA-CH-48/30B-A2(S)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MR-RA-CH-48/30B-C7(N)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "Lenovo搬运服务器HikOS-S1",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-8207 VM开发框架软件全功能(含深度学习)(标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE100-200W24-2BD(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-RVM-7100全功能/标配",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-7200/VM软件开发版全功能(含深度学习)/标配",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-7200-PRO/VM软件开发版全功能(含深度学习/标",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "镜头转接环M72-F T36.4",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-ID2016M-06S-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-ID2013EM-05-RBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-ID3030XM-12M-RBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "远心镜头(MVL-HY-06-65C)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "镜头(MVL-MY-1-200-MP)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-KF1224M-25MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-KF2524M-25MP(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "LF2528M-F",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-LF5040M-F",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-GE2204P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-AC10G-RJ45s-RJ45-ST-3m(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-ACP-DB9F-open-ST(EMC)-3m(全球通中性",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "镜头转接环 M58x0.75-F T35",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "HAR15-1440-S5L8-A1(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CH650-90TM-M58S-NF(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-MZS200H-100(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "键鼠套装,X126,USB,1400mm,-5~40℃",
+      "change": 3,
+      "after": 3
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE200-120W24-4TD(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-AF4028M-M42",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DLS1400P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-KY-05-240",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-AF3528M-M42",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-AF2524M-M42(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-AF5028M-M42A(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "转接环C-C T5",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL084-91GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL022-91GM(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LTPS-300-W(标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRSS-H-300-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-200-00-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-120-45-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LLAS-140-W(标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LCDM-120-120-W(标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "环形光源MV-LRDS-90-75-UV365(国内中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC1008M-05S-WBN-SR(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LLDH-237-38-W(加偏振膜))",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LGSS-260-W球积分光源",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LLDM-300-35-W)",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "远心镜头(MVL-KT-2-110)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "1.5倍镜头(MVL-KT-15-110)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "远心镜头(MVL-KT-1-110)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LLDS-192-28-UV365)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LLAS-260-W(标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LCDH-120-120-W)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LTFS-200-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-7210/VM开发版AI全功能Plus/标配",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-ACG-RJ45s-RJ45-ST-3m(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LODIS-H-300-100-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "V031-镜头转接环M72-F T34.5",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-ACP-H12P-open-ST-3M(屏蔽)(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LE202-300W24-1T(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-MVS-2201-STD/线阵2.5D全功能30天/中性",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "FA镜头MVL-LF6040M-013-M72(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DLS300P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2060-01D(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-ID3050XM-16L-RBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM3D-7300/标配",
+      "change": 5,
+      "after": 5
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "内存条,M4UE-BGS2KC0M-A,DDR4,32GB,UDIMM",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "V-立体006-标定块-对称-2凸台_底座65x50x6V-立体006",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-180-60-W2(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-95-90-W2(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "OLP工业机器人离线编程软件",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源控制器MV-LELS-300-1K-PY(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL042-91CC(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS050-10GM-PRO(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LDSS-H-8-3-G(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LDSS-H-8-3-B(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LDSS-H-8-3-R(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "环形光源MV-LRDS-120-30-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "适配器,TS-A144-2406001,桌面型,24V6A,144W,",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LBES-180-180-W (国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "环形光源MV-LRDS-74-60-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CL162-91F2M(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LBES-116-116-W)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源MV-LBSS-200-200-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC6250M-00C-NNN(国内中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LRDS-52-60-B)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "环形光源MV-LRDS-73-90-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LRDS-90-60-W)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LLDS-282-38-RGB2(定制))",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LBPS-130-50-B)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LBSS-150-150-IR940)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LRDS-H-120-60-W2(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "光源(MV-LRDS-42-65-R)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LTDS-H-600-W(全球通标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "LF9040M-M72",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-CS050-10GC-PRO(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IDH9000/13HHD/16RP/L(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC6050M-12M-XBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP4020-01P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "调试线-USB转485,IOT5072转PHS3+TB3B3P,2.3",
+      "change": 2,
+      "after": 2
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP4060-01P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM-9227VM开发框架软件全功能(含DL)/标配",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LW-CP-M-T0027A(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-IDA-P-M12A17pF-Open-ST-0.5m(全球",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "线缆MV-IDA-PE-Open9p-Open-ST-7m(全球通中性",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-LB-270-140-4030WL-A(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IDA-C-Y-61-45-M(国内中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP4090-01P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2060-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IPC-F4C7Q-32G-1024G1T-0206-X(国内标",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IPC-F4C9Q-64G-512G12T-0206 -X1/N",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-ID5200PM-00C-NNN(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-GE1104P(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC5050XM-12M-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-IDA-C-Y-62-62-M1",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3050XC-12M-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3120-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3062-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3060-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3020-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3050XM-12M-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "iMVS-VM3D-9229/VM及开发框架软件全功能(含DL)/标配",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2240-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2120-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2140-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2050-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2080-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP2061-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3300-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3013XM-12M-WBN(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "交流电源线_国标_弯三插_C13_1.2米(全球通中性)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "接线端子,插座,2位,8.2mm间距,一体式,两进两出,锁螺丝,配线,",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-SC3050XC-08M-WBN-S(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DP3120-01D(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-MVS-2209-STD/线阵2.5D视觉检测系统加密狗全功能永",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-VCP2000-30(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-MVS-2319-STD/面阵穹顶视觉检测系统加密狗全功能永久标",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MVL-LF8040M-F",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:51:15",
+      "type": "Excel导入",
+      "name": "MV-DAPS-25UM-C4D30-W(国内标配)",
+      "change": 1,
+      "after": 1
+    },
+    {
+      "time": "2026-05-17 22:59:29",
+      "type": "借出领用",
+      "name": "MV-DP3020-01P(国内标配)V2.0",
+      "change": -1,
+      "after": 0,
+      "person": "李晓源"
+    }
+  ]
+}
