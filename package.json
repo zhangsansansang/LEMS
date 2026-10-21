@@ -1,0 +1,11 @@
+{
+  "name": "lab-materials-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "机器视觉实验室物料管理系统（网页版，GitHub 存储）",
+  "scripts": {
+    "seed": "node scripts/build-seed.js",
+    "test": "node --test test/logic.test.mjs"
+  }
+}
