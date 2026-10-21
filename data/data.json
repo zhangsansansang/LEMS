@@ -2468,7 +2468,7 @@
       "code": "",
       "model": "",
       "spec": "",
-      "quantity": 0,
+      "quantity": 1,
       "location": "",
       "remark": "继续借用",
       "category": "线激光轮廓仪"
@@ -2709,7 +2709,7 @@
       "material_name": "MV-DP3020-01P(国内标配)V2.0",
       "material_id": "5adb492c",
       "qty": 1,
-      "returned": 0,
+      "returned": 1,
       "date": "5月14日",
       "time": "2026-05-17 22:59:29"
     }
@@ -4296,6 +4296,14 @@
       "name": "MV-DP3020-01P(国内标配)V2.0",
       "change": -1,
       "after": 0,
+      "person": "李晓源"
+    },
+    {
+      "time": "2026-10-21 17:35:08",
+      "type": "归还入库",
+      "name": "MV-DP3020-01P(国内标配)V2.0",
+      "change": 1,
+      "after": 1,
       "person": "李晓源"
     }
   ]
