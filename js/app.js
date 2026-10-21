@@ -20,9 +20,14 @@ let currentMaterial = "";
 const $ = (id) => document.getElementById(id);
 
 // ============ 初始化 ============
+function resolveToken() {
+  try { return localStorage.getItem("lab_materials_token") || CONFIG.token || ""; }
+  catch { return CONFIG.token || ""; }
+}
+
 async function init() {
-  if (CONFIG.owner && CONFIG.repo && CONFIG.token) {
-    store = new GitHubStore(CONFIG);
+  if (CONFIG.owner && CONFIG.repo) {
+    store = new GitHubStore({ ...CONFIG, token: resolveToken() });
   } else {
     store = new LocalStorageStore();
   }
@@ -30,7 +35,7 @@ async function init() {
   data = await store.load();
   if (!data) {
     data = { passwordHash: DEFAULT_PASSWORD_HASH, materials: [], borrows: [], logs: [] };
-    await store.save(data, { message: "初始化数据" });
+    try { await store.save(data, { message: "初始化数据" }); } catch { /* 只读模式首次忽略 */ }
   }
   if (!data.passwordHash) data.passwordHash = DEFAULT_PASSWORD_HASH;
   if (!Array.isArray(data.materials)) data.materials = [];
@@ -44,7 +49,9 @@ async function init() {
 function updateModeBadge() {
   const badge = $("modeBadge");
   if (store instanceof GitHubStore) {
-    badge.textContent = `GitHub: ${CONFIG.owner}/${CONFIG.repo}`;
+    badge.textContent = store.token
+      ? `GitHub: ${CONFIG.owner}/${CONFIG.repo}（可写）`
+      : `GitHub: ${CONFIG.owner}/${CONFIG.repo}（只读，请在设置填 Token）`;
   } else {
     badge.textContent = "本地存储（未配置 GitHub）";
   }
@@ -52,6 +59,9 @@ function updateModeBadge() {
 
 // ============ 乐观锁写入 ============
 async function commit(mutator, message = "更新数据") {
+  if (store instanceof GitHubStore && !store.token) {
+    throw new Error("只读模式：请在「⚙️ 设置」里粘贴 GitHub Token 后才能借出/归还/修改");
+  }
   for (let attempt = 0; attempt < 3; attempt++) {
     let d = await store.load();
     if (!d) d = { passwordHash: DEFAULT_PASSWORD_HASH, materials: [], borrows: [], logs: [] };
@@ -216,12 +226,22 @@ function openAdd() {
 }
 function openSettings() {
   $("settingsMode").textContent = (store instanceof GitHubStore)
-    ? `GitHub: ${CONFIG.owner}/${CONFIG.repo}`
+    ? (store.token ? `GitHub: ${CONFIG.owner}/${CONFIG.repo}（可写）` : `GitHub: ${CONFIG.owner}/${CONFIG.repo}（只读）`)
     : "本地存储（未配置 GitHub）";
+  $("ghToken").value = resolveToken();
   $("oldPwd").value = "";
   $("newPwd").value = "";
   $("newPwd2").value = "";
   openDialog("dlgSettings");
+}
+
+function saveToken() {
+  const t = $("ghToken").value.trim();
+  if (t) localStorage.setItem("lab_materials_token", t);
+  else localStorage.removeItem("lab_materials_token");
+  closeDialog("dlgSettings");
+  toast("Token 已保存，正在刷新…");
+  setTimeout(() => location.reload(), 600);
 }
 
 // ============ 业务动作 ============
@@ -464,6 +484,7 @@ function bindEvents() {
   $("scrapOk").addEventListener("click", doScrap);
   $("scrapCancel").addEventListener("click", () => closeDialog("dlgScrap"));
   $("pwdOk").addEventListener("click", doChangePassword);
+  $("tokenSave").addEventListener("click", saveToken);
   $("settingsCancel").addEventListener("click", () => closeDialog("dlgSettings"));
 
   // 回车提交弹窗
