@@ -2564,7 +2564,7 @@
       "code": "",
       "model": "",
       "spec": "",
-      "quantity": 1,
+      "quantity": 0,
       "location": "",
       "remark": "继续借用",
       "category": "线激光轮廓仪"
@@ -2742,6 +2742,16 @@
       "returned": 1,
       "date": "10月21日",
       "time": "2026-10-21 17:38:44"
+    },
+    {
+      "id": "785904eaab2c77",
+      "person": "纪振辉",
+      "material_name": "MV-DP2061-01P(国内标配)V2.0",
+      "material_id": "60bd4c98",
+      "qty": 1,
+      "returned": 0,
+      "date": "11月3日",
+      "time": "2026-11-03 17:08:55"
     }
   ],
   "logs": [
@@ -4374,6 +4384,14 @@
       "name": "MV-DP3060-01P(国内标配)V2.0",
       "change": 1,
       "after": 1,
+      "person": "纪振辉"
+    },
+    {
+      "time": "2026-11-03 17:08:55",
+      "type": "借出领用",
+      "name": "MV-DP2061-01P(国内标配)V2.0",
+      "change": -1,
+      "after": 0,
       "person": "纪振辉"
     }
   ]
